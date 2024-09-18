@@ -10,7 +10,6 @@ python3 pynetcat.py [-h] [-c] [-e EXECUTE] [-l] [-p PORT] [-t TARGET] [-u UPLOAD
   -c, --command         command shell
   
   -e EXECUTE, --execute EXECUTE
-  
                         execute specified command
                         
   -l, --listen          listen
@@ -18,11 +17,9 @@ python3 pynetcat.py [-h] [-c] [-e EXECUTE] [-l] [-p PORT] [-t TARGET] [-u UPLOAD
   -p PORT, --port PORT  specified port
   
   -t TARGET, --target TARGET
-  
                         specified IP
                         
   -u UPLOAD, --upload UPLOAD
-  
                         upload file
 
 # Examples
